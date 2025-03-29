@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeiSolaev
-- 👀 I’m interested in programming and front-end development
-- 🌱 I’m currently learning LinuxOS
+- 👀 I'm interested in embedded systems programming and front-end development
+- 🌱 I’m currently learning Arduino C++ and JS
 - 📫 How to reach me: my profile in <a href="https://vk.com/sergeisolaev" target="_blank">VK</a>
 
 <!---
